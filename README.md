@@ -1,5 +1,6 @@
 This repo contains the client-server video application implementation of the Mobile Personal Supervision System (MPSS) project.
 
+***
 **MPSS HW System Diagram**
 ![MPSS HW System Diagram](./doc/figures/supervisionHW1.png)
 ***
@@ -14,4 +15,5 @@ This repo contains the client-server video application implementation of the Mob
 ***
 **MPSS Worker Helmet Prototype**
 ![MPSS Worker Helmet Prototype](./doc/figures/implementationHW.png)
+***
 
